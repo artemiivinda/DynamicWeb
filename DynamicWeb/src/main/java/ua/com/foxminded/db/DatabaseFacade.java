@@ -1,5 +1,7 @@
 package ua.com.foxminded.db;
 
+// Very important project
+
 import java.util.List;
 import java.sql.Connection;
 import java.sql.DriverManager;
